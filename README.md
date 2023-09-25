@@ -6,4 +6,5 @@ Hello there! I'm Maximilian, and I'm passionate about all things Python. I consi
 ## Contact Me
 You can reach out to me through the following websites:
 - Telegram : [Maxim3lian](https://t.me/Maxim3lian)
+- Telegram Channel : [Maxim3lian Channel](https:/Maxim3lian_channel)
 - Email: [maximlian556@gmail.com](mailto:maximlian556@gmail.com)
